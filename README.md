@@ -1,2 +1,3 @@
-# hello.py
-myousl
+#myousl
+#hello.py
+print(hello,world!")
